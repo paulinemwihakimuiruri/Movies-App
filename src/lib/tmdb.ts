@@ -1,4 +1,4 @@
-const BASE_URL = process.env.BASE_URL
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL
 const API_KEY = "88666629d43637cbe2645b331f065d1c"
 
 export interface Movie {
